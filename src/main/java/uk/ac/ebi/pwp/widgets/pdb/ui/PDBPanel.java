@@ -15,7 +15,7 @@ import uk.ac.ebi.pwp.widgets.pdb.model.Range;
  * <dd>the panel containing a PDB element
  * </dl>
  *
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class PDBPanel extends Composite {
 

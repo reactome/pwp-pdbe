@@ -26,7 +26,7 @@ import java.util.List;
  * <dd>the panel containing a PDB element
  * </dl>
  *
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 @SuppressWarnings("UnusedDeclaration")
 public class PDBViewer extends Composite implements HasHandlers, OpenHandler<DisclosurePanel>, PDBRetriever.ResultHandler {

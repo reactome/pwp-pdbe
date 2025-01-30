@@ -3,7 +3,7 @@ package uk.ac.ebi.pwp.widgets.pdb.model;
 import com.google.gwt.core.client.JavaScriptObject;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class PDBObject extends JavaScriptObject {
 

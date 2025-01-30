@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import uk.ac.ebi.pwp.widgets.pdb.handlers.PdbStructureNotAvailableHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 @SuppressWarnings("UnusedDeclaration")
 public class pdbStructureNotAvailableEvent extends GwtEvent<PdbStructureNotAvailableHandler> {
