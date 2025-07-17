@@ -9,8 +9,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author Guilherme VITERI <gviteri@ebi.ac.uk>
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Guilherme VITERI (gviteri@ebi.ac.uk)
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class PDBRetriever {
     private static final String PDBE_HOST = "https://www.ebi.ac.uk/";

@@ -5,7 +5,7 @@ import uk.ac.ebi.pwp.widgets.pdb.handlers.PdbStructureLoadedHandler;
 import uk.ac.ebi.pwp.widgets.pdb.model.PDBObject;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 @SuppressWarnings("UnusedDeclaration")
 public class PdbStructureLoadedEvent extends GwtEvent<PdbStructureLoadedHandler> {

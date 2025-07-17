@@ -3,7 +3,7 @@ package uk.ac.ebi.pwp.widgets.pdb.ui;
 import com.google.gwt.core.client.JavaScriptObject;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 class PrintsWidgetWrapper extends JavaScriptObject {
 

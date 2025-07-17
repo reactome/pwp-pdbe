@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.EventHandler;
 import uk.ac.ebi.pwp.widgets.pdb.events.PdbStructureLoadedEvent;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public interface PdbStructureLoadedHandler extends EventHandler {
 

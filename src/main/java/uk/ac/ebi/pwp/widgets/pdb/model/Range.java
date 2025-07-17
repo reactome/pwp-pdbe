@@ -1,7 +1,7 @@
 package uk.ac.ebi.pwp.widgets.pdb.model;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class Range {
 
